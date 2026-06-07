@@ -1,0 +1,13 @@
+{
+  "name": "jira-cloud-automation-snippets",
+  "version": "1.0.0",
+  "description": "Automated alerting system bridging Jira Cloud REST API and Slack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
