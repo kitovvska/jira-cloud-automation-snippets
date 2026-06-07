@@ -28,7 +28,7 @@ Security First: Strictly architecture-compliant. No hardcoded credentials; utili
 ## Setup & Installation
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/jira-cloud-automation-snippets.git
+git clone https://github.com/kitovvska/jira-cloud-automation-snippets.git
 ```
 ### 2. Install dependencies:
 ```bash
